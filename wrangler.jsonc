@@ -9,14 +9,14 @@
   "kv_namespaces": [
     {
       "binding": "CACHE",
-      "id": "شناسه_KV_شما_اینجا"
+      "id": "623b73a9dfba4d008e7becaa79c2dd96"
     }
   ],
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "rss-reader",
-      "database_id": "شناسه_D1_شما_اینجا"
+      "database_id": "3ffe5276-24c8-4262-bcce-858cbad75e36"
     }
   ],
   "durable_objects": {
